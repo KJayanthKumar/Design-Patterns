@@ -1,3 +1,2 @@
-# Design-Patterns
-Design Patterns: C#
+# Factory Pattern
 This repository is having Implementation of Factory design pattern
